@@ -45,13 +45,16 @@ Durante esta fase do projeto, foram aplicados e praticados os seguintes conceito
 
 **Próximos Passos:**
 
-Esta análise exploratória serve como um pilar fundamental. Com base nela, a equipe de Data Science poderá:
-
 * Construir modelos preditivos para identificar clientes em risco de churn com maior precisão.
 * Desenvolver estratégias de retenção personalizadas para os segmentos de maior risco.
 
 
 ---
+
+## 💡 Observações
+
+Este projeto foi desenvolvido como parte de um **desafio de ETL** promovido pela Alura. Os dados utilizados são fictícios e voltados exclusivamente para fins educacionais.
+
 
 ## ✍️ Autora
 
