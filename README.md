@@ -43,11 +43,12 @@ Durante esta fase do projeto, foram aplicados e praticados os seguintes conceito
 
 ---
 
-**Próximos Passos:**
+**Próximos Passos:** 
 
-* Construir modelos preditivos para identificar clientes em risco de churn com maior precisão.
+* Construir modelos preditivos para identificar clientes em risco de churn com maior precisão. 
 * Desenvolver estratégias de retenção personalizadas para os segmentos de maior risco.
 
+Obs.: pode encontrar a continuação do projeto em: https://github.com/leticiamaia13/Telecom_X_Prevendo_Churn
 
 ---
 
